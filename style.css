@@ -480,7 +480,7 @@ a:hover {
 /* Three Column Content */
 
 #three-column {
-	overflow: hidden;
+	overflow: auto;
 	padding: 10px 0px 50px 0px;
 }
 
